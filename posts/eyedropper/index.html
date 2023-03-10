@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Eyedropper tool lag in Photoshop | Art of Dmitry Brushray</title>
-<meta name="keywords" content="Photoshop, tools, problem, solution, lag, delay, eyedropper, picker, color">
+<meta name="keywords" content="Photoshop, tools, problem, solution, lag, delay, eyedropper, picker, color, blog, art blog">
 <meta name="description" content="Solution of the lag, delay problem with the eyedropper tool in Photoshop for artists ">
 <meta name="author" content="Dmitry Brushray">
 <link rel="canonical" href="https://artbrushray.github.io/posts/eyedropper/">
@@ -96,7 +96,7 @@
   "name": "Eyedropper tool lag in Photoshop",
   "description": "Solution of the lag, delay problem with the eyedropper tool in Photoshop for artists ",
   "keywords": [
-    "Photoshop", "tools", "problem", "solution", "lag", "delay", "eyedropper", "picker", "color"
+    "Photoshop", "tools", "problem", "solution", "lag", "delay", "eyedropper", "picker", "color", "blog", "art blog"
   ],
   "articleBody": "Every artist who uses Photoshop for painting knows eyedropper color picker is the most important and essential tool. I’ve been using Photoshop for 15 years and all this time there was something wrong with this tool. From version to version of the program it always felt like lagging and never picking color as quickly as necessary.\nAt some point I had put up with the the problem just slowing down the work process until recently I finally found out the cause of the problem. It was so ridiculously obvious that I still feel shame!\nIn the internet you’ll find tons of information how to optimize Photoshop but non tell the most obvious reason of micro delays using eyedropper tool, no matter how fast your computer is.\nThe fact is that eyedropper tool assigned to Alt key. The fist and the most essential function of this key on Windows OC is selection of main menu in any Windows application. So before it even gets to the eyedropper tool Alt selects menu in Photoshop. You can see it when File Edit Image… menu become underlined then highlighted. And only after this if Alt is still pressed Photoshop changes Brush tool to Eyedropper tool. All this cause small lags, color misspicking and a lot of irritation because the procedure is iterated a lot.\nAnd this bug unfortunately can’t be avoided by regular methods. Neither Photoshop not Windows allow To reassign this Alt key. However there is an external solution. You can use Autohotkey script to turn the menu selection of in Photoshop. Here is the code for the script:\n#IfWinActive ahk_class Photoshop\r~LAlt::\rSendinput {Blind}{sc0E9}\rKeyWait, LAlt ; this wasit for the key to be RELEASED. So that it doesn't keep spamming SC0E9 (as seen from an AHK window Key history and script info... window.)\rSendinput {Blind}{sc0EA}\rreturn\r~RAlt::\rSendinput {Blind}{sc0E9}\rKeyWait, RAlt ; so that it doesn't keep spamming SC0E9\rSendinput {Blind}{sc0EA}\rreturn Thank you for the original article: https://github.com/TaranVH/2nd-keyboard/blob/master/Taran's_Windows_Mods/Alt_menu_acceleration_DISABLER.ahk\nI hope it will help to improve your experience in drawing with Photoshop.\n#brushray #artbrushray #artist #art #photoshop #eyedropper #lag #delay #problem #solution #process #drawing #slow\nLike my work? Feel free to contact me ✉ for your personalized piece of art anytime!\n",
   "wordCount" : "370",
