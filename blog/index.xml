@@ -13,7 +13,8 @@
       <pubDate>Mon, 01 Oct 2018 15:25:19 +0200</pubDate>
       
       <guid>https://artbrushray.github.io/blog/my-first-post/</guid>
-      <description>Lorem ipsum Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio.</description>
+      <description>&lt;h1 id=&#34;lorem-ipsum&#34;&gt;Lorem ipsum&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse tortor dui, fermentum non dapibus id, volutpat non odio.&lt;/p&gt;</description>
     </item>
     
   </channel>
