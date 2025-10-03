@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Iron Warriors on Art of Dmitry Brushray</title>
-    <link>https://artbrushray.github.io/tags/iron-warriors/</link>
+    <link>http://localhost:1313/tags/iron-warriors/</link>
     <description>Recent content in Iron Warriors on Art of Dmitry Brushray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Feb 2023 22:45:14 +0300</lastBuildDate><atom:link href="https://artbrushray.github.io/tags/iron-warriors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 22:45:14 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/iron-warriors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Havok Smith Trelok Olethros</title>
-      <link>https://artbrushray.github.io/posts/havoksmith/</link>
+      <link>http://localhost:1313/posts/havoksmith/</link>
       <pubDate>Thu, 23 Feb 2023 22:45:14 +0300</pubDate>
       
-      <guid>https://artbrushray.github.io/posts/havoksmith/</guid>
+      <guid>http://localhost:1313/posts/havoksmith/</guid>
       <description>&lt;p&gt;Hey everybody!
 This big bastard is Havok Smith Trelok Olethros the warlord of the Rust Corps Iron warrior warband.
 He replaced his arm with a chain cannon after losing in a fight with a Dark Angels Ravenwing captain.
@@ -24,13 +24,13 @@ Most importantly he is completely and totally insane.&lt;/p&gt;
     
     <item>
       <title>Warsmith Vorrax v1</title>
-      <link>https://artbrushray.github.io/posts/vorraxv1/</link>
+      <link>http://localhost:1313/posts/vorraxv1/</link>
       <pubDate>Thu, 23 Feb 2023 18:45:14 +0300</pubDate>
       
-      <guid>https://artbrushray.github.io/posts/vorraxv1/</guid>
+      <guid>http://localhost:1313/posts/vorraxv1/</guid>
       <description>&lt;p&gt;This guy is an Iron Warrior Warsmith of one imaginary Chaos Warband. He is wearing a terminator cataphractii armor, he is devoted to Khorne.
 He is really into dark and heretic technologies and equipped with a big thunder hammer in his right hand, in the left hand he got a heavy flamer.&lt;/p&gt;
-&lt;p&gt;Like my work? &lt;strong&gt;&lt;a href=&#34;https://artbrushray.github.io/contact&#34;&gt;Feel free to contact me ✉&lt;/a&gt;&lt;/strong&gt; for your personalized piece of art anytime!&lt;/p&gt;</description>
+&lt;p&gt;Like my work? &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/contact&#34;&gt;Feel free to contact me ✉&lt;/a&gt;&lt;/strong&gt; for your personalized piece of art anytime!&lt;/p&gt;</description>
     </item>
     
   </channel>

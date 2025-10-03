@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Art Practice on Art of Dmitry Brushray</title>
-    <link>https://artbrushray.github.io/tags/art-practice/</link>
+    <link>http://localhost:1313/tags/art-practice/</link>
     <description>Recent content in Art Practice on Art of Dmitry Brushray</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Apr 2023 21:55:44 +0300</lastBuildDate><atom:link href="https://artbrushray.github.io/tags/art-practice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Apr 2023 21:55:44 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/art-practice/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blacksmiths art by brushray</title>
-      <link>https://artbrushray.github.io/posts/smiths_by_brushray/</link>
+      <link>http://localhost:1313/posts/smiths_by_brushray/</link>
       <pubDate>Sun, 23 Apr 2023 21:55:44 +0300</pubDate>
       
-      <guid>https://artbrushray.github.io/posts/smiths_by_brushray/</guid>
+      <guid>http://localhost:1313/posts/smiths_by_brushray/</guid>
       <description>&lt;p&gt;Character drawing practice. This time I picked two images of blacksmith and draw them with charcoal.&lt;/p&gt;
 &lt;p&gt;#brushray #artbrushray #artist #art #painting #artcommissions #buyart #blacksmith #charcoalart #drawing #art #artist #sketch #sketching #creative #illustration #design #handmade #craftsmanship #metalworking #forging #anvil #fire #workshop #traditionalart #monochrome #instaart&lt;/p&gt;
-&lt;p&gt;Like my work? &lt;strong&gt;&lt;a href=&#34;https://artbrushray.github.io/contact&#34;&gt;Feel free to contact me ✉&lt;/a&gt;&lt;/strong&gt; for your personalized piece of art anytime!&lt;/p&gt;</description>
+&lt;p&gt;Like my work? &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/contact&#34;&gt;Feel free to contact me ✉&lt;/a&gt;&lt;/strong&gt; for your personalized piece of art anytime!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Flowers with charcoal</title>
-      <link>https://artbrushray.github.io/posts/daily3/</link>
+      <link>http://localhost:1313/posts/daily3/</link>
       <pubDate>Thu, 23 Mar 2023 00:27:24 +0300</pubDate>
       
-      <guid>https://artbrushray.github.io/posts/daily3/</guid>
+      <guid>http://localhost:1313/posts/daily3/</guid>
       <description>Flowers driven with charcoal powder. Still life by Dmitry Brushray </description>
     </item>
     
     <item>
       <title>Still life practice</title>
-      <link>https://artbrushray.github.io/posts/daily2/</link>
+      <link>http://localhost:1313/posts/daily2/</link>
       <pubDate>Mon, 20 Mar 2023 21:33:04 +0300</pubDate>
       
-      <guid>https://artbrushray.github.io/posts/daily2/</guid>
+      <guid>http://localhost:1313/posts/daily2/</guid>
       <description>I use charcoal to draw some simple still life </description>
     </item>
     
     <item>
       <title>Digital painting practice</title>
-      <link>https://artbrushray.github.io/posts/daily1/</link>
+      <link>http://localhost:1313/posts/daily1/</link>
       <pubDate>Mon, 06 Mar 2023 00:28:59 +0300</pubDate>
       
-      <guid>https://artbrushray.github.io/posts/daily1/</guid>
+      <guid>http://localhost:1313/posts/daily1/</guid>
       <description> My daily practice in digital painting </description>
     </item>
     
