@@ -2,13 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://artbrushray.github.io/tags/art-mix/</loc>
-    <lastmod>2026-03-11T23:53:00+03:00</lastmod>
+    <loc>https://artbrushray.github.io/tags/adeptus-mechanicus/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/</loc>
-    <lastmod>2026-03-11T23:53:00+03:00</lastmod>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/tags/chaos/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/tags/characters/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/posts/jan26mix/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/posts/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/tags/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/tags/warhammer40k/</loc>
+    <lastmod>2026-03-12T19:56:00+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/tags/art-mix/</loc>
     <lastmod>2026-03-11T23:53:00+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/posts/dec25mix/</loc>
@@ -17,26 +35,11 @@
     <loc>https://artbrushray.github.io/tags/landscape/</loc>
     <lastmod>2026-03-11T23:53:00+03:00</lastmod>
   </url><url>
-    <loc>https://artbrushray.github.io/tags/mechanicus/</loc>
-    <lastmod>2026-03-11T23:53:00+03:00</lastmod>
-  </url><url>
-    <loc>https://artbrushray.github.io/posts/</loc>
-    <lastmod>2026-03-11T23:53:00+03:00</lastmod>
-  </url><url>
     <loc>https://artbrushray.github.io/tags/sketches/</loc>
-    <lastmod>2026-03-11T23:53:00+03:00</lastmod>
-  </url><url>
-    <loc>https://artbrushray.github.io/tags/</loc>
     <lastmod>2026-03-11T23:53:00+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/tags/the-emperor/</loc>
     <lastmod>2026-03-11T23:53:00+03:00</lastmod>
-  </url><url>
-    <loc>https://artbrushray.github.io/tags/warhammer40k/</loc>
-    <lastmod>2026-03-11T23:53:00+03:00</lastmod>
-  </url><url>
-    <loc>https://artbrushray.github.io/tags/characters/</loc>
-    <lastmod>2025-10-05T19:44:19+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/tags/fanart/</loc>
     <lastmod>2025-10-05T19:44:19+03:00</lastmod>
@@ -57,6 +60,9 @@
     <lastmod>2025-05-10T16:49:19+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/posts/july24mix/</loc>
+    <lastmod>2024-07-30T19:11:17+03:00</lastmod>
+  </url><url>
+    <loc>https://artbrushray.github.io/tags/mechanicus/</loc>
     <lastmod>2024-07-30T19:11:17+03:00</lastmod>
   </url><url>
     <loc>https://artbrushray.github.io/tags/age-of-sigmar/</loc>
